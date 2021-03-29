@@ -2,7 +2,7 @@
 
 I am a full stack developer and illustrator from Spain. I enjoy participating in Open Source Projects, Hackathons, and spreading the Programming Community. Also, I like to practice Urban Sketching and I am in love with graphic design and typography.
 
-Feel free to check my GitHub!
+Feel free to visit my GitHub!
 
 ## Tecnologies and tools
 
